@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 Im MrSlime, a bored guy who almost don't know how to code
 
 Right now im working on a project called Bedwars Tracker. A program that you input your stats on a bedwars games and makes graphics about them. Probably in the future it end being a minecraft mod so you don't have to input them manually but if it ends working ill be happy with that
 
-I play games such as Geometry Das uh, cs:go and tetris, my main goal is to recreate tetris and maybe making it multiplayer and uploading it to steam.
+I play games such as Geometry Dash, cs:go and tetris, my main goal is to recreate tetris and maybe making it multiplayer and uploading it to steam.
 
 My discord for programmers is: https://discord.gg/PncUXz9Twd
 
