@@ -21,6 +21,3 @@ I'm slime, im almost 14 years old and I like programming
   <li>TrackMania Nations Forever</li>
   <li>CS:GO (only when i play with friends)</li>
 </ul>
-
-My GitHub stats of 2021 (really boring):
-
