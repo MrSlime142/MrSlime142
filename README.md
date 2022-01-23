@@ -1,24 +1,26 @@
 ### Hello there 👋
 
-Im MrSlime, a bored guy who almost don't know how to code
+I'm slime, im almost 14 years old and I like programming
 
-Right now im working on a project called Bedwars Tracker. A program that you input your stats on a bedwars games and makes graphics about them. Probably in the future it end being a minecraft mod so you don't have to input them manually but if it ends working ill be happy with that
+## Languages i know
+<ul>
+  <li>C# (Don't kill me please)</li>
+  <li>C++ (Just a bit)</li>
+  <li>C (Just a bit)</li>
+  <li>JavaScript (Enough to make basic Discord bots)</li>
+  <li>Python (Just started learning)</li>
+  <li>HTML and CSS (Have CodeCademy course enrolled)</li>
+</ul>
 
-I play games such as Geometry Dash, cs:go and tetris, my main goal is to recreate tetris and maybe making it multiplayer and uploading it to steam.
+## Games I play
+<ul>
+  <li>osu!</li>
+  <li>Geometry Dash</li>
+  <li>Minecraft</li>
+  <li>TrackMania 2020</li>
+  <li>TrackMania Nations Forever</li>
+  <li>CS:GO (only when i play with friends)</li>
+</ul>
 
-My discord for programmers is: https://discord.gg/PncUXz9Twd
+My GitHub stats of 2021 (really boring):
 
-<!--
-**MrSlime142/MrSlime142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
