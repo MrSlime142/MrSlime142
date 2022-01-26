@@ -5,7 +5,7 @@ I'm slime, im almost 14 years old and I like programming
 ## Languages i know
 <ul>
   <li>C# (Don't kill me please)</li>
-  <li>JavaScript (Enough to make basic Discord bots)</li>
+  <li>JavaScript</li>
 </ul>
 
 ## Languages i'm learning
