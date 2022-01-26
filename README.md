@@ -14,6 +14,7 @@ I'm slime, im almost 14 years old and I like programming
   <li>C</li>
   <li>Python</li>
   <li>HTML and CSS</li>
+  <li>TypeScript</li>
 </ul>
 
 ## Games I play
