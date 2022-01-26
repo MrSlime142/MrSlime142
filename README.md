@@ -5,11 +5,15 @@ I'm slime, im almost 14 years old and I like programming
 ## Languages i know
 <ul>
   <li>C# (Don't kill me please)</li>
-  <li>C++ (Just a bit)</li>
-  <li>C (Just a bit)</li>
   <li>JavaScript (Enough to make basic Discord bots)</li>
-  <li>Python (Just started learning)</li>
-  <li>HTML and CSS (Have CodeCademy course enrolled)</li>
+</ul>
+
+## Languages i'm learning
+<ul>
+  <li>C++</li>
+  <li>C</li>
+  <li>Python</li>
+  <li>HTML and CSS</li>
 </ul>
 
 ## Games I play
