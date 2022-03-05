@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm slime, im almost 14 years old and I like programming
+I'm slime, im 14 years old and I like programming
 
 ## Languages i know
 <ul>
@@ -24,5 +24,6 @@ I'm slime, im almost 14 years old and I like programming
   <li>Minecraft</li>
   <li>TrackMania 2020</li>
   <li>TrackMania Nations Forever</li>
-  <li>CS:GO (only when i play with friends)</li>
+  <li>Valorant</li>
+  <li>Tetr.io
 </ul>
