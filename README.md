@@ -1,29 +1,30 @@
 ### Hello there 👋
 
-I'm slime, im 14 years old and I like programming
+I'm slime, a 14 years old enthusiast programmer that has almost no ideas
+
+My programmer friends if you want to know them:
+
+@pyuraii
+@Aneks1
 
 ## Languages i know
 <ul>
-  <li>C# (Don't kill me please)</li>
+  <li>Rust (A bit)</li>
   <li>JavaScript</li>
-    <li>HTML and CSS</li>
+  <li>TypeScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
 
 ## Languages i'm learning
 <ul>
   <li>C++</li>
   <li>C</li>
-  <li>Python</li>
-  <li>TypeScript</li>
+  <li>Rust (advanced)</li>
 </ul>
 
-## Games I play
-<ul>
-  <li>osu!</li>
-  <li>Geometry Dash</li>
-  <li>Minecraft</li>
-  <li>TrackMania 2020</li>
-  <li>TrackMania Nations Forever</li>
-  <li>Valorant</li>
-  <li>Tetr.io
-</ul>
+## My GitHub Stats
+
+![My Stats :D](https://github-readme-stats.vercel.app/api?username=MrSlime142&theme=dark)
+
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlime1421&theme=dark)
