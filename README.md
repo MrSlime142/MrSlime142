@@ -4,8 +4,8 @@ I'm slime, a 14 years old enthusiast programmer that has almost no ideas
 
 My programmer friends if you want to know them:
 
-@pyuraii
-@Aneks1
+* [@pyuraii](https://github.com/pyuraii)
+* [@Aneks1](https://github.com/Aneks1)
 
 ## Languages i know
 <ul>
