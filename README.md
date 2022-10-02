@@ -27,4 +27,4 @@ My programmer friends if you want to know them:
 
 ![My Stats :D](https://github-readme-stats.vercel.app/api?username=MrSlime142&theme=dark)
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlime1421&theme=dark)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlime142&theme=dark)
